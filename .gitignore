@@ -1,5 +1,5 @@
 node_modules
 dist
-src/components/base-component.ts
-src/decorators
-src/app.ts
+/src/components/base-component.ts
+/src/decorators
+/src/app.ts
